@@ -1,0 +1,2 @@
+Shortcuts:
+- Shift + tab: xem parameters của một hàm
